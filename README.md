@@ -24,8 +24,8 @@ I completed my degree in Electronics and Communication Engineering from St.Josep
 
 ## Contact
 
-- Email: [your.email@example.com]
-- LinkedIn: [your LinkedIn link]
+- Email: [santhamurthyr16@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/santhamurthy-1122-r]
 - GitHub: [@santhamurthy1122](https://github.com/santhamurthy1122)
 
 ---
